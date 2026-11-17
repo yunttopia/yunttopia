@@ -1,20 +1,21 @@
-### Hi, I'm Yunttopia
+```
+$ whoami
+yunttopia — makes software that gets out of the way.
 
-Making software that gets out of the way.
+$ cat ~/.motto
+if i did it twice by hand, it's a script now.
+```
 
-Most of what I build starts as a chore I got tired of doing by hand.
-I keep the tools small, test the parts that matter, and open-source
-the ones that might be useful to someone else.
+**things i let out of the house**
 
-#### Open source
+- [`saju-engine`](https://github.com/yunttopia/saju-engine) — your four pillars, computed. no fortune teller required.
+- [`agent-guardrails`](https://github.com/yunttopia/agent-guardrails) — a leash for LLM agents. budget caps, allowlists, receipts.
+- [`targeted-mutation-testing`](https://github.com/yunttopia/targeted-mutation-testing) — breaks your code on purpose to see if your tests are lying.
+- [`html-carousel-renderer`](https://github.com/yunttopia/html-carousel-renderer) — JSON in, instagram carousel out.
 
-| Project | What it does |
-|---|---|
-| [saju-engine](https://github.com/yunttopia/saju-engine) | Korean saju / manseryeok calculator in TypeScript: Four Pillars, lunar calendar, solar terms |
-| [agent-guardrails](https://github.com/yunttopia/agent-guardrails) | Guardrails for LLM agents: budget caps, host allowlists, audit logs, human approval tokens |
-| [targeted-mutation-testing](https://github.com/yunttopia/targeted-mutation-testing) | Break the lines that matter and see if your tests notice. Zero dependencies |
-| [html-carousel-renderer](https://github.com/yunttopia/html-carousel-renderer) | Render Instagram carousels and reels from JSON + HTML templates |
+**currently**
 
-#### Elsewhere
+- building small tools for people who sell things online
+- teaching AI agents to work in teams without setting anything on fire
 
-- Website: [yunttopia.com](https://yunttopia.com)
+→ [yunttopia.com](https://yunttopia.com)
